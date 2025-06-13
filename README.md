@@ -9,7 +9,7 @@
 </div>
 
 ## 🧑‍💻 About Me
-A curious developer who goes deeper into the probelms to find the best solutions. Ships high quality fully tested products.
+Innovative developer and tech startup Co-founder having expertise in building products from scratch. Passionate Learner & Web Security Enthusiast. Effective Team Leader & Collaborative Player
 
 ## 🛠️ Tech Stack & Tools
 Below are some tools and techs I have used so far. Some extensively and few just to fix bugs and shipping minor updates.
